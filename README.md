@@ -1,4 +1,7 @@
-A version of Minesweeper programmed in Java, using Swing to create a GUI.
+A version of Minesweeper programmed in Java.
+
+This game was created as a personal project using Swing to create a GUI.
+To play the game, a user must install Java and run the main class.
 
 Created August 2023
 
